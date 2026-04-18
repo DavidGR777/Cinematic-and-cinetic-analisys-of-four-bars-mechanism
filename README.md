@@ -14,6 +14,6 @@ Subsequently, a kinetic analysis is performed using the previously obtained kine
 [Show kinetic analysis](media/Analisis_cinetico.pdf)
 
 ## Simulation
-
+![Simulation](media/mechanism_simulation.gif)
 [Show simulation file](media/matlab_simulation.mp4)
 
