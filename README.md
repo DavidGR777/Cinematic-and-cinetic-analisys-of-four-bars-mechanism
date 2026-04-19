@@ -1,4 +1,4 @@
-# Cinematic-and-cinetic-analisys-of-four-bars-mechanism
+# Kinematic-and-kinetic-analisys-of-four-bars-mechanism
 This project provides an analisys and MATLAB development of simulation and ecuation system of a mechanism composed by 4 bars and a transmission made by 2 gears.
 
 The behavior of the system is governed by a set of arbitrarily defined initial parameters , as well as by the equations that describe its evolution over time. In this context, the system is considered to be fully controlled, with both the configuration and the driving input (startup motor) explicitly defined.
